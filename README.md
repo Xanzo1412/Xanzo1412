@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, my name is Maxim 👋
+Привет, меня зовут Максим
 <!--
 **Xanzo1412/Xanzo1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
