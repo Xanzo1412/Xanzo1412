@@ -1,5 +1,10 @@
 ## Hi, my name is Maxim 👋
 Привет, меня зовут Максим
+
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,js,html,css)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,figma&theme=light)](https://skillicons.dev)
+
 <!--
 **Xanzo1412/Xanzo1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
