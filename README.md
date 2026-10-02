@@ -6,6 +6,8 @@
 
 Меня зовут Максим, я графический дизайнер, работаю в Figma, Photoshop, AffinityPhoto, Gimp. Также имею опыт в монтаже видео, владею такими программами, как AfterEffect, AlightMotion, CapCut. Помимо этого занимаюсь фронтенд-разработкой
 
+---
+
 [![My Skills](https://skillicons.dev/icons?i=py,vscode,js,html,css)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,figma&theme=light)](https://skillicons.dev)
